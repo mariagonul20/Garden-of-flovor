@@ -1,7 +1,5 @@
 # 🍽️ Garden of Flavor
 
-Garden of Flavor, kullanıcıların çeşitli yemek tariflerini keşfedebileceği ve kendi favori tariflerini kaydedebileceği dinamik bir yemek sitesidir. Bu proje, kullanıcı dostu bir arayüz ile lezzetli tariflere kolay erişim sağlar. 🌟
-
 ## 📹 Ekran Kaydı
 
 ![Garden of Flavor Ekran Kaydı](link-to-your-gif) 
@@ -9,22 +7,25 @@ Garden of Flavor, kullanıcıların çeşitli yemek tariflerini keşfedebileceğ
 
 
 
+Garden of Flavor, kullanıcıların çeşitli yiyecek ve içecek tariflerini keşfedebileceği, favori tariflerini kaydedebileceği ve lezzetli içeriklere kolay erişim sağlayabileceği dinamik bir web sitesidir. 🌟 Lezzetli tariflerle dolu bir dünyanın kapılarını aralayın!
+
 ## 🚀 Özellikler
 
-- 🍳 Farklı mutfaklardan zengin yemek tarifleri
-- ⭐ Favori tarifleri kaydetme
-- 📝 Kullanıcı yorumları ve değerlendirmeleri
-- 📱 Mobil uyumlu tasarım
+- 🍳 Farklı mutfaklardan zengin yiyecek ve içecek tarifleri
+- ⭐ Favori tarifleri kaydetme ve görüntüleme
+- 💬 Kullanıcı yorumları ve değerlendirmeleri
+- 📱 Mobil uyumlu tasarım ile her cihazda mükemmel görünüm
 
 ## 🛠️ Kullanılan Teknolojiler
 
-- HTML
-- CSS
-- Bootstrap
-- JavaScript
-- Responsive Design
+- HTML: Yapıyı oluşturmak için
+- CSS: Şık bir tasarım için
+- Bootstrap: Hızlı ve duyarlı tasarım için
+- JavaScript: Dinamik etkileşimler için
+- Responsive Design: Her cihazda mükemmel görünüm
 
 
----
+Bu projeyi geliştirirken büyük keyif aldım ve umarım siz de beğenirsiniz! 🎉 
 
-Bu projeyi geliştirirken büyük keyif aldım ve umarım siz de beğenirsiniz! 🎉
+
+
