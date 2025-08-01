@@ -18,11 +18,11 @@ Garden of Flavor, kullanıcıların çeşitli yiyecek ve içecek tariflerini ke�
 
 ## 🛠️ Kullanılan Teknolojiler
 
-- HTML: Yapıyı oluşturmak için
-- CSS: Şık bir tasarım için
-- Bootstrap: Hızlı ve duyarlı tasarım için
-- JavaScript: Dinamik etkileşimler için
-- Responsive Design: Her cihazda mükemmel görünüm
+- HTML: 
+- CSS: 
+- Bootstrap: 
+- JavaScript: 
+- Responsive Design: 
 
 
 Bu projeyi geliştirirken büyük keyif aldım ve umarım siz de beğenirsiniz! 🎉 
